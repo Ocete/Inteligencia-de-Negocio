@@ -1,0 +1,10 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Introducción}{3}{section.1}
+\contentsline {section}{\numberline {2}Intentos realizados}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Intento 1: Ejemplo de Jorge}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Intento 2: Get Dummies}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Intento 3: Noise reduction, feature selection y XGBoosting}{4}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Intento 4: Estudio de SelectKBest}{5}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Intento 5: Subida errónea}{5}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Intento 6: SelectKBest con XGBoosting}{5}{subsection.2.6}
+\contentsline {subsection}{\numberline {2.7}Intentos 7 y 8: Selección de instancias y salto a stacking}{6}{subsection.2.7}

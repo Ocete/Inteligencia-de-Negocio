@@ -1,0 +1,9 @@
+\BOOKMARK [1][-]{section.1}{Introducción}{}% 1
+\BOOKMARK [1][-]{section.2}{Intentos realizados}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Intento 1: Ejemplo de Jorge}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Intento 2: Get Dummies}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Intento 3: Noise reduction, feature selection y XGBoosting}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Intento 4: Estudio de SelectKBest}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{Intento 5: Subida errónea}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.6}{Intento 6: SelectKBest con XGBoosting}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.7}{Intentos 7 y 8: Selección de instancias y salto a stacking}{section.2}% 9

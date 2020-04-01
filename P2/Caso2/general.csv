@@ -1,0 +1,6 @@
+Algoritmo,CH,Silh,Tiempo,Número de clusters
+KMeans,316.74,0.27,0.02,5
+MeanShift,92.54,0.29,3.36,6
+Ward,276.24,0.25,0.03,4
+DBScan,15.93,0.43,0.02,2
+Birch,199.59,0.23,0.09,5

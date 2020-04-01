@@ -1,0 +1,15 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{3}{section.1}
+\contentsline {section}{\numberline {2}Casos de estudio}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Caso 1: Estudio de los hijos deseados}{3}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}An\IeC {\'a}lisis general}{4}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}An\IeC {\'a}lisis espec\IeC {\'\i }fico: algoritmo \emph {KMeans}}{7}{subsubsection.2.1.2}
+\contentsline {subsection}{\numberline {2.2}Caso 2: An\IeC {\'a}lisis jer\IeC {\'a}rquico sobre tratamientos de reproducci\IeC {\'o}n asistida. }{10}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}An\IeC {\'a}lisis general}{10}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}An\IeC {\'a}lisis espec\IeC {\'\i }fico: algoritmo \emph {Ward}}{11}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}An\IeC {\'a}lisis jer\IeC {\'a}rquico de clustering aglomerativo.}{13}{subsubsection.2.2.3}
+\contentsline {subsection}{\numberline {2.3}Caso 3: An\IeC {\'a}lisis del reparto de tareas familiares en parejas heterosexuales y homosexuales. }{15}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}An\IeC {\'a}lisis general}{16}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}An\IeC {\'a}lisis espec\IeC {\'\i }fico: algoritmo \emph {KMeans} en parejas heterosexuales}{19}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}Comparativa con parejas homosexuales}{22}{subsubsection.2.3.3}
+\contentsline {section}{\numberline {3}Bibliograf\IeC {\'\i }a}{23}{section.3}

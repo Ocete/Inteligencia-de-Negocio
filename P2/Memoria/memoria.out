@@ -1,0 +1,14 @@
+\BOOKMARK [1][-]{section.1}{Introducci\363n}{}% 1
+\BOOKMARK [1][-]{section.2}{Casos de estudio}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Caso 1: Estudio de los hijos deseados}{section.2}% 3
+\BOOKMARK [3][-]{subsubsection.2.1.1}{An\341lisis general}{subsection.2.1}% 4
+\BOOKMARK [3][-]{subsubsection.2.1.2}{An\341lisis espec\355fico: algoritmo KMeans}{subsection.2.1}% 5
+\BOOKMARK [2][-]{subsection.2.2}{Caso 2: An\341lisis jer\341rquico sobre tratamientos de reproducci\363n asistida. }{section.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.2.1}{An\341lisis general}{subsection.2.2}% 7
+\BOOKMARK [3][-]{subsubsection.2.2.2}{An\341lisis espec\355fico: algoritmo Ward}{subsection.2.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.2.3}{An\341lisis jer\341rquico de clustering aglomerativo.}{subsection.2.2}% 9
+\BOOKMARK [2][-]{subsection.2.3}{Caso 3: An\341lisis del reparto de tareas familiares en parejas heterosexuales y homosexuales. }{section.2}% 10
+\BOOKMARK [3][-]{subsubsection.2.3.1}{An\341lisis general}{subsection.2.3}% 11
+\BOOKMARK [3][-]{subsubsection.2.3.2}{An\341lisis espec\355fico: algoritmo KMeans en parejas heterosexuales}{subsection.2.3}% 12
+\BOOKMARK [3][-]{subsubsection.2.3.3}{Comparativa con parejas homosexuales}{subsection.2.3}% 13
+\BOOKMARK [1][-]{section.3}{Bibliograf\355a}{}% 14
