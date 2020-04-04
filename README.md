@@ -1,4 +1,4 @@
-# Inteligenica de Negocio
+# Inteligencia de Negocio
 Este repositorio contiene mis prácticas para la asignatura Inteligencia de Negocio.
 
 La memoria de la práctica 2 se puede encontrar [aqui](https://github.com/Ocete/Inteligenica-de-Negocio/blob/master/P2/Memoria/memoria.pdf).
